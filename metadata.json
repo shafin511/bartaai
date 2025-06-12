@@ -1,0 +1,6 @@
+{
+  "name": "Barta AI (বার্তা AI)",
+  "description": "A professional AI chatbot for a Bangladeshi audience, using Gemini API for intelligent conversations. Mobile-friendly with a sleek dark UI and vibrant accents.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
